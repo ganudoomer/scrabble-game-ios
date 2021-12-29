@@ -11,15 +11,17 @@
 		2225379D26F8DA5300C62B84 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2225379C26F8DA5300C62B84 /* ContentView.swift */; };
 		2225379F26F8DA5400C62B84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2225379E26F8DA5400C62B84 /* Assets.xcassets */; };
 		222537A226F8DA5400C62B84 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 222537A126F8DA5400C62B84 /* Preview Assets.xcassets */; };
+		222537AA26F8E1EF00C62B84 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 222537A926F8E1EF00C62B84 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2225379726F8DA5300C62B84 /* scrabble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = scrabble.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2225379A26F8DA5300C62B84 /* scrabbleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scrabbleApp.swift; sourceTree = "<group>"; };
-		2225379C26F8DA5300C62B84 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2225379C26F8DA5300C62B84 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; usesTabs = 0; };
 		2225379E26F8DA5400C62B84 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		222537A126F8DA5400C62B84 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		222537A326F8DA5400C62B84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		222537A926F8E1EF00C62B84 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = "../../../HackingWithSwift/SwiftUI/project5-files/start.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				2225379A26F8DA5300C62B84 /* scrabbleApp.swift */,
 				2225379C26F8DA5300C62B84 /* ContentView.swift */,
+				222537A926F8E1EF00C62B84 /* start.txt */,
 				2225379E26F8DA5400C62B84 /* Assets.xcassets */,
 				222537A326F8DA5400C62B84 /* Info.plist */,
 				222537A026F8DA5400C62B84 /* Preview Content */,
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				222537A226F8DA5400C62B84 /* Preview Assets.xcassets in Resources */,
+				222537AA26F8E1EF00C62B84 /* start.txt in Resources */,
 				2225379F26F8DA5400C62B84 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
